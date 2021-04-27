@@ -1,0 +1,6 @@
+编号,网点名称,设备名称,设备编号
+AddEquipment_001,网点一,售饭机,A
+AddEquipment_002,,售饭机,A
+AddEquipment_003,网点一,,A
+AddEquipment_004,网点一,售饭机,
+AddEquipment_005,网点一,售饭机,A

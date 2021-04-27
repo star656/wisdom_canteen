@@ -1,0 +1,11 @@
+编号,商品名称,商品价格,商品排序,商品类别,图片路径,商品描述,预期
+AddGoods_001,蔬菜沙拉,5.5,1,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,蔬菜沙拉，减肥必选,添加成功
+AddGoods_002,,5.5,1,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,蔬菜沙拉，减肥必选,商品名称不能为空！
+AddGoods_003,蔬菜沙拉,,1,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,蔬菜沙拉，减肥必选,商品价格不能为空！
+AddGoods_004,蔬菜沙拉,5.5,,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,,商品排序不能为空！
+AddGoods_005,蔬菜沙拉,5.5,1,,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,,商品类别不能为空！
+AddGoods_006,蔬菜沙拉,5.5,1,素菜,,,请选择上传图片
+AddGoods_007,蔬,5.5,1,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,,商品名称必须是2-30位中文或字母组合
+AddGoods_008,蔬菜沙拉,hh,1,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,,商品价格必须是大于0的数
+AddGoods_009,蔬菜沙拉,5.5,1.1,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,,商品排序必须是大于0的整数
+AddGoods_010,蔬菜沙拉,5.5,1,素菜,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload_text.exe,,上传文件只能是图片格式 !

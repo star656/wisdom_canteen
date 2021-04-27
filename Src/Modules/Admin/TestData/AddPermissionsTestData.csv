@@ -1,0 +1,10 @@
+编号,权限名称,权限等级,权限路径,权限序列,图标样式,父权限,功能
+AddPermissions_001,测试测试,1级菜单,test,,数据,,
+AddPermissions_002,测试管理,2级菜单,testing,2,,数据,编辑，查询，删除
+AddPermissions_003,,1级菜单,test,,数据,,
+AddPermissions_004,测试,1级菜单,,,数据,,
+AddPermissions_005,测试,1级菜单,test,,,,
+AddPermissions_006,测试,2级菜单,test,,,,
+AddPermissions_007,H,1级菜单,test,,数据,,
+AddPermissions_008,测试,1级菜单,t,,数据,,
+AddPermissions_009,测试测试,1级菜单,test,,数据,,

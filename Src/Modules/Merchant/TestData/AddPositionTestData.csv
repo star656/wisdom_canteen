@@ -1,0 +1,8 @@
+编号,部门名称,职位名称,职位类型,职位描述
+AddPosition_001,测试部门,软件测试,员工,测试软件
+AddPosition_002,,软件测试,员工,测试软件
+AddPosition_003,测试部门,,员工,测试软件
+AddPosition_004,测试部门,软件测试,领导,
+AddPosition_005,测试部门,测,员工,测试软件
+AddPosition_006,测试部门,软件测试,领导,测
+AddPosition_007,测试部门,软件测试,员工,测试软件

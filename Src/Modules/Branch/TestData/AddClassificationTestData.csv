@@ -1,0 +1,10 @@
+编号,分类编码,分类名称,分类排序,图片路径,预期
+AddClassification_001,A001,素菜,1,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,添加成功
+AddClassification_002,,素菜,1,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,分类编码不能为空！
+AddClassification_003,A001,,1,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,分类名称不能为空！
+AddClassification_004,A001,素菜,,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,分类排序不能为空！
+AddClassification_005,,素,1,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,分类名称必须是2-30位中文或字母组合
+AddClassification_006,A001,素菜,0,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,分类排序必须是大于0的整数
+AddClassification_007,A001,素菜,1,,请选择上传图片
+AddClassification_008,A001,素菜,1,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload_text.exe,上传文件只能是图片格式 !
+AddClassification_009,A001,素菜,1,D:\Xbx\wisdom_canteen\Src\Modules\Branch\TestData\upload.exe,添加失败，分类编码已被占用

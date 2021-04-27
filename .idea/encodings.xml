@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Conf/TestEmailServerConf.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Conf/TestEnvironmentConf.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/TestCase/TestCase_AddPremissions.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/TestCase/TestCase_AddRole.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/TestData/AddButtonTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/TestData/AddMerchantTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/TestData/AddPermissionsTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/TestData/AddRoleTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/TestData/AddUserTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/YeWu/AddButton.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/YeWu/AddMerchant.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/YeWu/AddPermissions.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Admin/YeWu/AddRole.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Branch/TestData/AddClassificationTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Branch/YeWu/AddClassification.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Common/TestData/AddUserTestData.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Common/TestData/UserLoginTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/TestCase/TestCase_AddRole.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/TestData/AddBranchesTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/TestData/AddDepartmentTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/TestData/AddEquipmentTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/TestData/AddPositionTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/TestData/AddRoleTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/TestData/AddUserTestData.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/YeWu/AddBranches.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/YeWu/AddDepartment.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/YeWu/AddEmployees.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/YeWu/AddEquipment.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/YeWu/AddPosition.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Modules/Merchant/YeWu/AddRole.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddBranchesPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddButtonPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddClassificationPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddDepartmentPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddEmployeesPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddEquipmentPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddMerchantPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddPermissionsPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddPositionPage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Src/Page/AddRolePage.py" charset="UTF-8" />
+  </component>
+</project>
